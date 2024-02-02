@@ -32,4 +32,4 @@ Before running the application, make sure you have the following installed:
 3. Run the project by pressing F5 on your laptop or simply press the run button.
 
 ## Demo
-Please watch this demo video: https://drive.google.com/file/d/1hmvbyUER_vgN9iiiTEL33lewTHAmdVLY/view?usp=sharing
+Since the project is not yet deployed to the web server, I provide a demo video to give you a walkthrough on the features that I developed. Please watch this demo video: https://drive.google.com/file/d/1iWU3NdpZkm_9eNqtqyA52IKxOFqsTyIP/view?usp=sharing
