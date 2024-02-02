@@ -30,3 +30,6 @@ Before running the application, make sure you have the following installed:
 
 2. Open the URLShortener.sln in Visual Studio.
 3. Run the project by pressing F5 on your laptop or simply press the run button.
+
+## Demo
+Please watch this demo video: https://drive.google.com/file/d/1hmvbyUER_vgN9iiiTEL33lewTHAmdVLY/view?usp=sharing
